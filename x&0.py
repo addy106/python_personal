@@ -1,6 +1,5 @@
 from os import system, name
 
-
 def clear_screen():
     # For Windows
     if name == 'nt':
